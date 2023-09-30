@@ -1,1 +1,5 @@
-## Our first flask RestAPI 
+numpy
+pandas
+flask
+flask_mysql
+
